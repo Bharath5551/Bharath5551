@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhanu!
+# 👋 Hi, I'm Bharath!
 
 🎓 BTech CSE Student | 💻 Web Developer | ☕ Java Enthusiast
 
