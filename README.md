@@ -16,11 +16,11 @@
 
 ### About
 
-I'm a computer science student who learns by shipping. Most of what I build is full stack: a Java or Node backend, a web front end, deployed somewhere people can actually use it. Lately I've been building AI agents that do real work, with memory, tools, and a human approval step in front of anything risky.
+Hey, I'm Bharath. I'm doing my BTech in CSE and I spend most of my free time building things. Usually that means a Java or Node backend, a simple web front end, and a deploy on Vercel or Render so my friends can actually try it.
 
-- **Now:** Digi Assist, a Telegram assistant that runs my email, calendar and reminders
-- **Learning:** Spring Boot and React
-- **Ask me about:** Java backends, web apps, LLM tool-calling
+These days I'm working on Digi Assist, a Telegram bot that keeps track of my emails, calendar and reminders. It always asks me before it sends anything. I'm also slowly picking up Spring Boot and React.
+
+If you want to talk Java, web dev, or whatever you're building, say hi.
 
 <br/>
 
@@ -77,4 +77,4 @@ I'm a computer science student who learns by shipping. Most of what I build is f
 
 <br/>
 
-<p align="center"><sub>Open to internships and collaborations. The fastest way to reach me is email.</sub></p>
+<p align="center"><sub>Looking for internships. Email is the easiest way to reach me.</sub></p>
